@@ -19,7 +19,7 @@ I used these for the project ;
 - Auto Layout
 
 
-Screens ; <br>
+Screen ; <br>
 
 https://user-images.githubusercontent.com/77745850/217222647-ca6d1e86-3c62-4541-b055-45ddbf64931d.mov
 
